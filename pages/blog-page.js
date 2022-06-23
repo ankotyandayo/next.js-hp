@@ -7,3 +7,5 @@ const Blog = () => {
 };
 
 export default Blog;
+
+export async function getStaticProps() {}
